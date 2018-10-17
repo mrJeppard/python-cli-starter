@@ -5,4 +5,4 @@ At a minimum, change the name of the script, the read_data, transform_data, and 
 
 example usage:
 
-    `python myscript.py -i /path/to/input -o /path/to/output`
+    python myscript.py -i /path/to/input -o /path/to/output
