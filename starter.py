@@ -20,7 +20,7 @@ def parse_args():
                         )
 
     parser.add_argument('-o',"--out_file", type=str, help="",
-                        default="full_sim.euc.tab"
+                        default="out.tab"
                         )
 
     opts = parser.parse_args()
